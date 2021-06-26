@@ -1,0 +1,4 @@
+output/
+__pycache__/
+logic/__pycache__
+*.pyo
