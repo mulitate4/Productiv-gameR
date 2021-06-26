@@ -1,6 +1,9 @@
 # What's Productiv-GameR?
 Well, if you're like me, and absolutely LOVE gaming, but also find it eating away some of your productive time, then this app is for you! It's a pretty simple desktop app, which I mainly built to satisfy my curiousity about PyQt5 and QML.
 
+## How do I download it?
+Download from [this link](https://cdn.discordapp.com/attachments/788528253845241946/858266895089401896/Productiv-gameR.zip) and extract the contents into an empty folder, then run `Productiv-gameR.exe` and you're done!
+
 ## Features
 It features 4 main options.
 1. It speaks the time at regular intervals. This isn't decided by WHEN you launched the app. Rather, it speaks out the time at the 15th, 30th and 45th minute of any hour, as well as the beginning of the hour itself. This is achieved using the PyTTSx3 library
